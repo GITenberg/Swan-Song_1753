@@ -1,0 +1,37 @@
+_repo: Swan-Song_1753
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Fell, Marian
+    gutenberg_agent_id: '4814'
+    url: http://www.gutenberg.org/2009/agents/4814
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian drama -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Drama'
+- !lcc 'PG'
+- GITenberg
+title: Swan Song
+url: http://www.gutenberg.org/ebooks/1753
